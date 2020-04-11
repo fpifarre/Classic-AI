@@ -1,5 +1,5 @@
 # Classic-AI
-Machine Learning project to generate classical music based on previous scores using Tensorflow
+Machine Learning project to generate classical music based on previous scores using Tensorflow. 
 
 This project is my Research Work on Artificial Intelligence. The goal of the work was to learn about how Artificial Intelligence works and to program a Machine Learning algorithm able to compose music.
 
